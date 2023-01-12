@@ -1,14 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&display=swap");
 
 body {
-  background-color: #DAA520;
+  background-color: #8B0000;
   background-image: url("https://thumbs.gfycat.com/IdenticalPettyDodo-max-1mb.gif");
   text-align: center;
   font-weight: 700;
 }
 
 #hello-wrapper {
-  color: #DAA520;
+  color: #8B0000;
   font-family: 'Source Sans Pro', sans-serif;
 }
 
